@@ -1,0 +1,9 @@
+{
+  "name": "juan-portfolio",
+  "version": "1.0.0",
+  "description": "A site used to showcase my work as a web developer ",
+  "main": "server.js",
+  "author": "Juan John-Charles",
+  "license": "MIT",
+  "private": true
+}
